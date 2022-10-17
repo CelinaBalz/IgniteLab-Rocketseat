@@ -2,7 +2,7 @@ import { Logo } from './logo';
 import { Heading } from './components/Heading';
 import { Text } from './components/Text';
 import { Button } from './components/Button';
-import { Checkbox } from './components/checkbox';
+import { Checkbox } from './components/Checkbox';
 import './styles/global.css';
 import { TextInput, TextInputInput } from './components/TextInput';
 import {Envelope} from 'phosphor-react'
